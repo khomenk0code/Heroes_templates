@@ -7,12 +7,6 @@
       "element": "water"
     },
     {
-      "id": "15c46e3e-5438-4ec0-9f7a-e63227660557",
-      "name": "asf",
-      "description": "asf",
-      "element": "water"
-    },
-    {
       "id": "529ebc55-f206-4d8f-ac00-25d12089d3c4",
       "name": "a",
       "description": "sad",
@@ -25,9 +19,15 @@
       "element": "fire"
     },
     {
-      "id": "13173efa-cc92-4af4-960e-8ae3ba28a3a2",
-      "name": "m hmghm",
-      "description": "gjhcghj",
+      "id": "376a818a-c094-4fd8-aa20-7f64d09b8e73",
+      "name": "asfas",
+      "description": "fadf",
+      "element": "fire"
+    },
+    {
+      "id": "9c74ba4c-646a-468b-a793-07986ce4fc5e",
+      "name": "реукыр",
+      "description": "ыкре",
       "element": "earth"
     }
   ],
